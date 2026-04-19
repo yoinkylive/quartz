@@ -16,6 +16,14 @@ Complimenting this, the relationship between creators and audiences has been dra
 </a>
 </div>
 
+### Bibliography
+Daniel G.TM [@_daniel.gtm]. (n.d.). _TikTok video_ [Video]. TikTok. [https://www.tiktok.com/@_daniel.gtm/video/7623006545952967949](https://www.tiktok.com/@_daniel.gtm/video/7623006545952967949)
+
+Jesse Chrisss [@jessechrisss]. (n.d.). _TikTok video_ [Video]. TikTok. [https://www.tiktok.com/@jessechrisss/video/7598623176796458261](https://www.tiktok.com/@jessechrisss/video/7598623176796458261)
+
+Abidin, C. (2017, September 18). _Instagram, Finstagram, and calibrated amateurism_. Cyborgology. [https://thesocietypages.org/cyborgology/2017/09/18/instagram-finstagram-and-calibrated-amateurism/](https://thesocietypages.org/cyborgology/2017/09/18/instagram-finstagram-and-calibrated-amateurism/?utm_source=chatgpt.com)
+
+
 > [!NOTE] Rational
 > This case study examines TikTok and teh concept of calibrated amateurism, where published content is made to intentionally look unpolished with the hope of coming off as 'authentic' despite being carefully contstructed to maximise engagement. 
 > 
